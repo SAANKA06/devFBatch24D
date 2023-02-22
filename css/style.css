@@ -1,0 +1,18 @@
+/*css estiliza basado en selectores
+tenemos 3 selectores principales
+- selector de etiqueta: body,h1,span etc
+- selector de clase: .clase-personalizada
+- selector de id: #cualquier-identificador
+*/
+p {
+    color: blueviolet;
+    font-size: 30px;
+}
+.parrafo-intermedio {
+    color: gold;
+    font-size: 35px;
+}
+#parrafo-unico {
+    color:crimson;
+    font-size: 60px;
+}
